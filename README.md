@@ -1,4 +1,4 @@
-# docker-curl
+# appropriate/tcpdump
 Alpine-based image with just tcpdump
 
 ## Usage
